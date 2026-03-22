@@ -26,7 +26,7 @@ export function Sidebar() {
         </div>
         <div className="leading-none">
           <div className="text-[15px] font-semibold tracking-tight text-white">
-            ra<span className="text-blue-400 font-light">(nythin)</span>g
+            ranything
           </div>
           <div className="text-[10px] text-slate-500 mt-0.5 font-mono tracking-widest uppercase">
             RAG Platform
